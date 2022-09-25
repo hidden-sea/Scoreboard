@@ -1,0 +1,23 @@
+
+.container{
+    display:flex;
+    justify-content: space-around;
+
+}
+body{
+    background-color: navy;
+
+}
+
+p{
+    text-align: center;
+    color: red;
+    border-radius: 5px;
+    background-color: rgb(10, 10, 60);
+    border: white solid 1px;
+    font-size: 100px;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
